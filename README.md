@@ -26,7 +26,6 @@ The test will test such case:
 *   with_floating_point
 *   with_floating_value
 *   with_wrong_parametr
-*   remove extra spaces
 
 
 # Project Goals
