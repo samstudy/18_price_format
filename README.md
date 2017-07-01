@@ -21,7 +21,7 @@ format_price(price)
 python3.5 tests.py
 ```
 The test will test such case:
-```
+
 *   with_integer_value
 *   with_floating_point
 *   with_floating_value
